@@ -1,5 +1,6 @@
 // const redirectUri = 'http://jem-projectspt.surge.sh'
-const redirectUri = 'http://localhost:3000';
+// const redirectUri = 'http://localhost:3000';
+const redirectUri = 'https://thirsty-wright-93f114.netlify.app';
 const clientId = '286e5ad69d2a44f78f0cf8b1e3428815';
 
 
